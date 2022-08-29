@@ -1,0 +1,93 @@
+h1 {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+h2{
+    background-color: red;
+    font-family: "Leelawadee UI", Segoe, Arial, sans-serif;
+    text-align: center;
+
+}
+
+img{
+    display:block;
+    width: 800px;
+    height: 550px;
+    align-items: center;
+}
+
+.bx-window{
+    background:orange;
+    width:37%;
+    color: white;
+    font-family: "Times New Roman",Sans-Serif;
+    font-size: 18px;
+    text-align: center;
+    padding: 33px;
+    min-height: 600px;
+    border-radius: 22px;
+    position: absolute;
+    left:10%;
+    top: 50%;
+    display: none;
+
+}
+.cerrar{
+    width: 45px;
+    height: 45px;
+    position: absolute;
+    right: 3px ;
+    top: 1px;
+}
+
+body{
+    background-image: url("https://st4.depositphotos.com/22719282/39383/i/450/depositphotos_393831540-stock-photo-video-game-controller-gamepad-background.jpg");
+}
+
+.anchor{
+    width: 100px;
+    height: 30px;
+    position: absolute;
+    text-align: center;
+
+
+
+}
+.background-graphic-top{
+    background-color: purple;
+
+    width: 35%;
+    color: white;
+    font-family: "Times New Roman",Sans-Serif;
+    font-size: 18px;
+    text-align: center;
+    padding: 33px;
+    min-height: 600px;
+
+    border-radius: 22px;
+    position: absolute;
+    left:59%;
+    top: 70%;
+
+
+}
+.container-fluid{
+    width: 15%;
+}
+.footer{
+    height: 25px;
+
+    background-color: crimson;
+    text-align: center;
+    font-family: "Times New Roman";
+    font-size: 23px;
+}
+
+.image-clean{
+    width: 30%;
+    height: 45%;
+    position: absolute;
+    left:66%;
+    top: 18%;
+}
